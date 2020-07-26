@@ -1,5 +1,5 @@
 package dependence
 
 func World() string {
-	return ", World"
+	return ", World" + "砸瓦鲁多"
 }
